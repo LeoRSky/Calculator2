@@ -10,5 +10,5 @@ def calculator(n1,n2,op):
     else:
         return f'Error'
 
-def calculator_pr(n1,n2,op):
-    pass
+def calculator_pr(n):
+    return n
