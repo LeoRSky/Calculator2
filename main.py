@@ -14,3 +14,4 @@ def calculator_pr(n):
     return n
 
 print(calculator_pr(calculator(1,2,'+')))
+print(calculator_pr(calculator(2,1,'-')))
