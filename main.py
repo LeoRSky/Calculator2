@@ -15,3 +15,4 @@ def calculator_pr(n):
 
 print(calculator_pr(calculator(1,2,'+')))
 print(calculator_pr(calculator(2,1,'-')))
+print(calculator_pr(calculator(2,1,'*')))
